@@ -10,14 +10,16 @@ Watch the demo here: [X post](https://x.com/diegocabezas01/status/20650501632284
 
 ## How To Open It
 
-Option 1: download the full repo.
+Option 1: clone the repo (for experienced developers).
 
-1. Download this repository from GitHub.
-2. Unzip the downloaded file if needed.
-3. Open the folder in your Downloads.
-4. Double-click `index.html`, or right-click it and choose your browser.
+```bash
+git clone https://github.com/diegocp01/fable-5-traffic-light-sim.git
+cd fable-5-traffic-light-sim
+```
 
-Option 2: download only the HTML file as a ZIP.
+Then open `index.html` in your browser.
+
+Option 2: download only the HTML file (no Git required).
 
 1. Click here to download [`index.html.zip`](https://github.com/diegocp01/fable-5-traffic-light-sim/raw/refs/heads/main/assets/index.html.zip).
 2. Unzip it.
