@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk '/<script type=\"module\">/{f=1;next} /<\\\\/script>/{if\\(f\\){f=0}} f' index.html)",
+      "Bash(node --check /tmp/sim_check.mjs)",
+      "Bash(open *)",
+      "Bash(node --check /tmp/sim_check2.mjs)",
+      "Bash(node --check /tmp/sim_check3.mjs)"
+    ]
+  }
+}
