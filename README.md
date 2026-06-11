@@ -17,9 +17,11 @@ Option 1: download the full repo.
 3. Open the folder in your Downloads.
 4. Double-click `index.html`, or right-click it and choose your browser.
 
-Option 2: download only the HTML file.
+Option 2: save only the HTML file.
 
-1. Download [`index.html` directly](https://github.com/diegocp01/fable-5-traffic-light-sim/raw/main/index.html).
-2. Open it from your Downloads folder in a browser.
+1. Right-click this link: [`index.html`](https://raw.githubusercontent.com/diegocp01/fable-5-traffic-light-sim/main/index.html).
+2. Choose "Save Link As..." or "Download Linked File As...".
+3. Save it as `index.html` in your Downloads folder.
+4. Open it from your Downloads folder in a browser.
 
 No build step, install, or server is required. Just download and open the HTML file in a browser.
